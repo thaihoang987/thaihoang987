@@ -4,11 +4,9 @@
 
 - [Gym App](https://github.com/thaihoang987/Gym-app) - self-hosted workout tracker for Docker/Unraid.
 
-## Donate
+## Support
 
-If my projects help you, you can optionally support development and maintenance:
+If my projects are useful to you, you can support development:
 
 - Ko-fi: https://ko-fi.com/leonbell
 - PayPal: https://paypal.me/leonbell95
-
-Donations are voluntary and do not purchase a license to any third-party datasets, images, GIFs, or other media referenced by my projects.
