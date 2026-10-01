@@ -2,7 +2,7 @@
 
 ## Projects
 
-- [Gym App](https://github.com/thaihoang987/Gym-app) - self-hosted workout tracker for Docker/Unraid.
+- [Gym Note](https://github.com/thaihoang987/Gym-Note) - self-hosted, local-first workout tracker for Docker/Unraid/CasaOS: exercise library with GIFs, workout logging, body-composition scan (OCR), analytics, PWA, 11 languages.
 - [My Scheduler](https://github.com/thaihoang987/My-addon-Scheduler) - Home Assistant add-on: iPhone-style timer & scheduler for your devices, no YAML automations needed.
 - [USB Gateway](https://github.com/thaihoang987/usb-gateway) - multi-port Modbus TCP/RTU and raw TCP/UART gateway for Docker/Unraid.
 
