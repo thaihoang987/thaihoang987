@@ -2,8 +2,14 @@
 
 ## Projects
 
+### Home Assistant apps (Hass.io)
+
+- [My Scheduler](https://github.com/thaihoang987/My-addon-Scheduler) - iPhone-style timer & scheduler for your devices, no YAML automations needed.
+- [USB Manager](https://github.com/thaihoang987/app-usb-manager) - identifies USB serial devices by their responses and gives each one a fixed TCP port (raw UART, Modbus TCP ↔ RTU), so `ttyUSB` renumbering never breaks your flows.
+
+### Docker / Unraid
+
 - [Gym Note](https://github.com/thaihoang987/Gym-Note) - self-hosted, local-first workout tracker for Docker/Unraid/CasaOS: exercise library with GIFs, workout logging, , analytics, PWA, 11 languages.
-- [My Scheduler](https://github.com/thaihoang987/My-addon-Scheduler) - Home Assistant app: iPhone-style timer & scheduler for your devices, no YAML automations needed.
 - [USB Gateway](https://github.com/thaihoang987/usb-gateway) - multi-port Modbus TCP/RTU and raw TCP/UART gateway for Docker/Unraid.
 
 ## Support
